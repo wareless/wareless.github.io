@@ -1,8 +1,3 @@
----
-title: Wareless Group
----
-
-
 # Wareless Group
 
 Hi-tech software for embedded system and computer vision-based system.
